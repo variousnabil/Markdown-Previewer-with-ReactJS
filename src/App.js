@@ -3,7 +3,7 @@ import './App.css';
 import marked from 'marked';
 
 const markdownExample = `# Welcome to my React Markdown Previewer! 
-\n\n## This is a sub-heading...\\r\\r\\r\\r\\r
+\n\n## This is a sub-heading...
 \n\n[go to my github](https://github.com/variousnabil)<br>
 \n\n Heres some code, \`<div></div>\`, between 2 backticks.
 \n\n \`\`\`
